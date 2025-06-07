@@ -12,7 +12,7 @@
 
 ## 📦 Dependencies
 
-- [wofi](https://hg.sr.ht/~scoopta/wofi)
+- [wofi](https://github.com/SimplyCEO/wofi)
 - `xdg-open` (typically preinstalled)
 - `xdotool` *(optional)* — for simulating typing into the browser
 - `notify-send` *(for fallback notification)*
