@@ -25,4 +25,7 @@
 git clone https://github.com/YOUR_USERNAME/wofigpt.git
 cd wofigpt
 chmod +x wofigpt.py
+```
 
+## ⌨️ Suggested Keybind (Hyprland Example)
+`bind = SUPER, D, exec, ~/path-to-wofigpt.py`
