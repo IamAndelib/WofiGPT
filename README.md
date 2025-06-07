@@ -10,6 +10,10 @@
 - ⚡ Fast, keyboard-driven interface
 - 🪟 Works well with Hyprland and other Wayland compositors
 
+## 📸 Screenshot
+
+![wofigpt in action](screenshot.png)
+
 ## 📦 Dependencies
 
 - [wofi](https://github.com/SimplyCEO/wofi)
